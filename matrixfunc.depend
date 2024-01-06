@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1702050724 source:d:\linearalgebra\matrixfunc\main.cpp
+	<bits/stdc++.h>
+	"project.h"
+
+1702050724 d:\linearalgebra\matrixfunc\project.h
+
+1702044389 source:d:\linearalgebra\matrixfunc\matrix.cpp
+	<bits/stdc++.h>
+
